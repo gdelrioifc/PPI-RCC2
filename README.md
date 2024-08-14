@@ -7,3 +7,8 @@ The training sets are included in the <a href="">Training</a> directory. The tes
 
 The Weka models trained to predict PPI are included in <a href="">Models</a> directory. These files are in a binary format readable by Weka.
 
+TO use this model, you want want to install <a href="https://waikato.github.io/weka-wiki/downloading_weka/">Weka jar</a> file in your computer, then type the following command in your console:
+
+java -cp <weka-jar>:. weka.classifiers.meta.AutoWEKAClassifier -T <arff_file> -l <weka_model>
+
+where <weka-jar> corresponds with the full path to the weka.jar file located in your computer, <arff_file> is any of the files in the Testing dir or any other similar file and <weka_model> is any of the weka models reported in the Models directory.
