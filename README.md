@@ -7,7 +7,7 @@ The training sets are included in the <a href="https://github.com/gdelrioifc/PPI
 
 The Weka models trained to predict PPI are included in <a href="https://github.com/gdelrioifc/PPI-RCC2/tree/main/Models">Models</a> directory. These files are in a binary format readable by Weka.
 
-TO use this model, you want want to install <a href="https://waikato.github.io/weka-wiki/downloading_weka/">Weka jar</a> file in your computer, then type the following command in your console:
+To use this model, you want want to install <a href="https://waikato.github.io/weka-wiki/downloading_weka/">Weka jar</a> file in your computer, then type the following command in your console:
 
 java -cp <weka-jar>:. weka.classifiers.meta.AutoWEKAClassifier -T <arff_file> -l <weka_model>
 
