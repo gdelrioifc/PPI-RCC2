@@ -1,5 +1,5 @@
 # PPI-RCC2
-Supplementary Material for "Residue Cluster Classes in Protein-Protein Interactions" in "Aggregates &amp; Clusters of Amino Acids. Properties and biochemical consequences"
+<h3>Supplementary Material for "Residue Cluster Classes in Protein-Protein Interactions" in "Aggregates &amp; Clusters of Amino Acids. Properties and biochemical consequences", edited by Vladimir Uversky y Munishwar Nath Gupta (CRC Press).</h3>
 
 In this site you will find the training and testing datasets used to evaluate 3 different models previously reported by our group to efficiently classify protein-protein interactions (PPI) <a href="https://pubmed.ncbi.nlm.nih.gov/32640745/">(1)</a>.
 
