@@ -13,11 +13,11 @@
 <th>Program name</th><th>Description</th>
 <tr>
   <td>p0_dirGen0.sh</td>
-  <td>This bash script creates directories and compiles two java programs</td>
+  <td>This bash script creates directories and compiles the two java programs described above.</td>
 </tr>
 <tr>
   <td>p1_interacting.py</td>
-  <td>This python script reads the complexes file and writes a list of proteins with at least 1 interaction. Also calculates the average value for each one of the 26 components, and its standard deviation. Also calculates the sum of all 26 components for each vector in the list of proteins</td>
+  <td>This python script reads the <a href="https://github.com/gdelrioifc/PPI-RCC2/tree/main/Parallelism/Interacting">complex files</a> and writes a list of proteins with at least 1 interaction. Also calculates the average value for each one of the 26 components, and its standard deviation. Also calculates the sum of all 26 components for each vector in the list of proteins</td>
 </tr>
 <tr>
   <td>p2_sampleGenerator.py</td>
