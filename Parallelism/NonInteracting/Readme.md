@@ -1,4 +1,4 @@
-<h3>This directory includes the files used to study the angles and parallelisms among pairs of <i>RCC</i> derived from non-interacting proteins.</h3>
+<h3>This directory includes the files used to study the angles and parallelisms among pairs of <i>vRCC</i> derived from non-interacting proteins.</h3>
 <p>Files with "af_" corresponds with pairs of non-interating proteins associated with AlphaFold models.</p>
 
 <p>Files with "exp_" corresponds with pairs of non-interating proteins associated with Experimental models.</p>
