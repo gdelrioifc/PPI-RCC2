@@ -13,6 +13,6 @@ java -cp <weka-jar>:. weka.classifiers.meta.AutoWEKAClassifier -T <arff_file> -l
 
 where <weka-jar> corresponds with the full path to the weka.jar file located in your computer, <arff_file> is any of the files in the Testing dir or any other similar file and <weka_model> is any of the weka models reported in the Models directory.
 
-The directory <a href="https://github.com/gdelrioifc/PPI-RCC2/tree/main/Parallelism">Parallelism</a> contains the data (RCC vectors) and codes used to evaluate the parallelism/semi-parallelism observed in 4 different datasets, including: Full_DB, Experimental_DB, AlphaFold_DB and Random_DB. Please review the original work for a full desciption of these datasets.
+The directory <a href="https://github.com/gdelrioifc/PPI-RCC2/tree/main/Parallelism">Parallelism</a> contains the data (RCC vectors) and codes used to evaluate the parallelism/semi-parallelism observed in three different datasets, including: Experimental_DB, AlphaFold_DB and Random_DB. Please review the original work for a full desciption of these datasets.
 
 Two supplementary tables cited in the original article are accessible in this site under the directory <a href="https://github.com/gdelrioifc/PPI-RCC2/tree/main/SupplementaryTables">Supplementary Tables</a>
